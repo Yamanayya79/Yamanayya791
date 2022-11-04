@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Yamanayya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-yamanayya-red)](https://www.youtube.com/Yamanayya)
+[![Linkedin Badge](https://img.shields.io/badge/-Yamanayya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Yamanayya--01629954/)](https://www.linkedin.com/in/Yamanayya--01629954/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.yamanayya)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
@@ -136,7 +136,7 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
 
-![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=Yamanaayya&theme=react-dark&area=true)
 <!--
 **Yamanayya79/Yamanayya79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
